@@ -6,7 +6,7 @@ Affolternstrasse 10 \
 8050 Zürich \
 Switzerland
 
-### Vat number
+### VAT number
 
 CHE-202.999.753 MWST
 
