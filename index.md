@@ -12,4 +12,4 @@ CHE-202.999.753 MWST
 
 ### Contact
 
-Send inquiries to [contact@palisadedata.ch](contact@palisadedata.ch)
+Send inquiries to [contact@palisadedata.ch](mailto:contact@palisadedata.ch)
