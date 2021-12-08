@@ -2,8 +2,8 @@
 
 ### Address
 
-Affolternstrasse 10 \
-8050 Zürich \
+Hochhaus 1 \
+6060 Sarnen \
 Switzerland
 
 ### VAT number
