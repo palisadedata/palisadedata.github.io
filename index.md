@@ -2,8 +2,9 @@
 
 ### Address
 
-Hochhaus 1 \
-6060 Sarnen \
+c/o companyplace.ch AG \
+Rathausstrasse 14 \
+6340 Baar \
 Switzerland
 
 ### VAT number
